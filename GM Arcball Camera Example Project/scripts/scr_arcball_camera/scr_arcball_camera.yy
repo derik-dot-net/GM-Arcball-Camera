@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"Script1",
+  "%Name":"scr_arcball_camera",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"Script1",
+  "name":"scr_arcball_camera",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

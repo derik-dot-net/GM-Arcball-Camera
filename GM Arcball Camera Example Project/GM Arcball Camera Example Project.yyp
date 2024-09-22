@@ -36,7 +36,7 @@
   "resources":[
     {"id":{"name":"obj_main","path":"objects/obj_main/obj_main.yy",},},
     {"id":{"name":"rm_example","path":"rooms/rm_example/rm_example.yy",},},
-    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"scr_arcball_camera","path":"scripts/scr_arcball_camera/scr_arcball_camera.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
