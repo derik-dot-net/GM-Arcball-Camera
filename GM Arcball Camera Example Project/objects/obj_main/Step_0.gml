@@ -1,0 +1,2 @@
+// Update Camera
+cam.update();
