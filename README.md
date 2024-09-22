@@ -21,3 +21,5 @@ Things to note:
 - If you want to modify the way the controls work then you can simply look for the ```control()``` function inside of the script. You will find the default controls in there.
 - The ```dir``` value in the struct is misleading, and points from the center to the view_pos rather than the opposite.
 - The intended use of this is primarily as a convienent system for quick prototyping or to use while showing off other systems.
+
+Pro Tip! I recommend setting up an input response for the period-key that resets the target_pos of the camera to the position of a selected object. This has been a very useful shortcut for me, and is also based on Blender as well. 
